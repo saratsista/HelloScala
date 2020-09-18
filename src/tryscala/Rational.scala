@@ -1,3 +1,5 @@
+package tryscala
+
 class Rational(n: Int, d: Int) {
   // Preconditions to ensure denominator is not zero
   require(d != 0)

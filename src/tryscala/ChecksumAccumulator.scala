@@ -1,3 +1,5 @@
+package tryscala
+
 import scala.collection.mutable.Map;
 
 class ChecksumAccumulator {
